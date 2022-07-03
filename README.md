@@ -11,16 +11,31 @@
     <a href="https://github.com/catppuccin/dark-reader/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dark-reader?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-![Dark Reader Theme Preview 1](assets/preview-1.png)
-![Dark Reader Theme Preview 2](assets/preview-2.png)
-
 ## Usage
 
 1. Go to `Dark Reader → Dev tools → Preview new design → Apply`.
 2. Reopen Dark Reader, select dynamic mode and click `See all Options`.
-3. Click `Colors` and set the values according to the screenshot below.
+3. Click `Colors` and set the values according to the flavour you selected.
 
-![Dark Reader Theme Settings](assets/settings.png)
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.png">
+</details>
+
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.png">
+</details>
+
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.png">
+</details>
+
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.png">
+</details>
 
 ## 💝 Thanks to
 
