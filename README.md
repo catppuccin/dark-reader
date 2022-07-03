@@ -11,6 +11,10 @@
     <a href="https://github.com/catppuccin/dark-reader/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dark-reader?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+
+![DarkReader Theme Preview (Wikipedia)](assets/screenshot.png)
+
+
 ## Usage
 
 1. Go to `Dark Reader → Dev tools → Preview new design → Apply`.
