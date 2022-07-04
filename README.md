@@ -23,22 +23,90 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/latte.png">
+<table>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Background</td>
+<td>#eff1f5</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>#4c4f69</td>
+</tr>
+<tr>
+<td>Selection</td>
+<td>#acb0be</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/frappe.png">
+<table>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Background</td>
+<td>#303446</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>#c6d0f5</td>
+</tr>
+<tr>
+<td>Selection</td>
+<td>#626880</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.png">
+<table>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Background</td>
+<td>#24273a</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>#cad3f5</td>
+</tr>
+<tr>
+<td>Selection</td>
+<td>#5b6078</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.png">
+<table>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Background</td>
+<td>#1e1e2e</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>#cdd6f4</td>
+</tr>
+<tr>
+<td>Selection</td>
+<td>#585b70</td>
+</tr>
+</table>
 </details>
 
 ## 💝 Thanks to
