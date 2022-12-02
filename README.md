@@ -17,9 +17,10 @@
 
 ## Usage
 
-1. Go to `Dark Reader → Dev tools → Preview new design → Apply`.
-2. Reopen Dark Reader, select dynamic mode and click `See all Options`.
-3. Click `Colors` and set the values according to the flavour you selected.
+- Go to `Dark Reader → Theme for all websites → See all options -> Colors`.
+- Open your desired flavor in the table below. Copy and paste values into respecive fields.
+  - You will have to change the "Selection" setting from `Automatic` to `Custom`.
+- Done! There is no apply or save button.
 
 <details>
 <summary>🌻 Latte</summary>
