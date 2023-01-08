@@ -17,7 +17,8 @@
 
 ## Usage
 
-- Go to `Dark Reader → Theme for all websites → See all options -> Colors`.
+- Open the Dark Reader Extension and click on `Dev Tools` → `Preview new Design` and close the window 
+- Now go to `Dark Reader` → `See all options` → `Colors`.
 - Open your desired flavor in the table below. Copy and paste values into respecive fields.
   - You will have to change the "Selection" setting from `Automatic` to `Custom`.
 - Done! There is no apply or save button.
