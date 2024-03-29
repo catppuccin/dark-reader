@@ -21,7 +21,7 @@
 - Now go to `Dark Reader` → `See all options` → `Colors`.
 > **Note**:\
 > If you only want to use *Mocha*, Dark Reader includes *"Catppuccin"*, which is Mocha.
-- Open your desired flavor in the table below. Copy and paste values into respecive fields.
+- Open your desired flavor in the table below. Copy and paste values into respective fields.
   - You will have to change the "Selection" setting from `Automatic` to `Custom`.
 - Done! There is no apply or save button.
 
