@@ -17,20 +17,22 @@
 
 ## Usage
 
-- Open the Dark Reader Extension and click on `Dev Tools` → `Preview new Design` and close the window 
-- Now go to `Dark Reader` → `See all options` → `Colors`.
-> **Note**:\
-> If you only want to use *Mocha*, Dark Reader includes *"Catppuccin"*, which is Mocha.
-- Open your desired flavor in the table below. Copy and paste values into respective fields.
-  - You will have to change the "Selection" setting from `Automatic` to `Custom`.
-- Done! There is no apply or save button.
+> [!IMPORTANT]
+> If you only want to use _Mocha_, Dark Reader includes **Catppuccin** by
+> default, which is Mocha.
+
+1. Open the Dark Reader.
+2. Click on `Dev Tools` → `Preview new design` and close the window.
+3. Now click on `See all options` -> `Colors`.
+4. Open your desired flavor in the table below. Copy and paste values into respective fields.
+    - You will have to change the "Selection" setting from `Automatic` to `Custom`.
 
 <details>
 <summary>🌻 Latte</summary>
 <table>
 <tr>
-<th></th>
-<th></th>
+<th>Setting</th>
+<th>Color</th>
 </tr>
 <tr>
 <td>Background</td>
@@ -51,8 +53,8 @@
 <summary>🪴 Frappé</summary>
 <table>
 <tr>
-<th></th>
-<th></th>
+<th>Setting</th>
+<th>Color</th>
 </tr>
 <tr>
 <td>Background</td>
@@ -73,8 +75,8 @@
 <summary>🌺 Macchiato</summary>
 <table>
 <tr>
-<th></th>
-<th></th>
+<th>Setting</th>
+<th>Color</th>
 </tr>
 <tr>
 <td>Background</td>
@@ -95,8 +97,8 @@
 <summary>🌿 Mocha</summary>
 <table>
 <tr>
-<th></th>
-<th></th>
+<th>Setting</th>
+<th>Color</th>
 </tr>
 <tr>
 <td>Background</td>
@@ -112,6 +114,8 @@
 </tr>
 </table>
 </details>
+
+5. Done! There is no apply or save button.
 
 ## 💝 Thanks to
 
