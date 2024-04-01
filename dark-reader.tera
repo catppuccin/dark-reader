@@ -1,3 +1,7 @@
+---
+whiskers:
+  version: 2.0.0
+---
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -27,75 +31,17 @@
 4. Open your desired flavor in the table below. Copy and paste values into respective fields.
     - You will have to change the "Selection" setting from `Automatic` to `Custom`.
 
-
+{% for id, flavor in flavors %}
 <details>
+{%- if id == "latte" %}
 <summary>🌻 Latte</summary>
-<table>
-<tr>
-<th>Setting</th>
-<th>Color</th>
-</tr>
-<tr>
-<td>Background</td>
-<td>#eff1f5 </td>
-</tr>
-<tr>
-<td>Text</td>
-<td>#4c4f69 </td>
-</tr>
-<tr>
-<td>Selection</td>
-<td>#acb0be </td>
-</tr>
-</table>
-</details>
-
-<details>
+{%- elif id == "frappe" %}
 <summary>🪴 Frappé</summary>
-<table>
-<tr>
-<th>Setting</th>
-<th>Color</th>
-</tr>
-<tr>
-<td>Background</td>
-<td>#303446 </td>
-</tr>
-<tr>
-<td>Text</td>
-<td>#c6d0f5 </td>
-</tr>
-<tr>
-<td>Selection</td>
-<td>#626880 </td>
-</tr>
-</table>
-</details>
-
-<details>
+{%- elif id == "macchiato" %}
 <summary>🌺 Macchiato</summary>
-<table>
-<tr>
-<th>Setting</th>
-<th>Color</th>
-</tr>
-<tr>
-<td>Background</td>
-<td>#24273a </td>
-</tr>
-<tr>
-<td>Text</td>
-<td>#cad3f5 </td>
-</tr>
-<tr>
-<td>Selection</td>
-<td>#5b6078 </td>
-</tr>
-</table>
-</details>
-
-<details>
+{%- else %}
 <summary>🌿 Mocha</summary>
+{%- endif %}
 <table>
 <tr>
 <th>Setting</th>
@@ -103,19 +49,19 @@
 </tr>
 <tr>
 <td>Background</td>
-<td>#1e1e2e </td>
+<td>#{{ flavor.colors.base.hex }} </td>
 </tr>
 <tr>
 <td>Text</td>
-<td>#cdd6f4 </td>
+<td>#{{ flavor.colors.text.hex }} </td>
 </tr>
 <tr>
 <td>Selection</td>
-<td>#585b70 </td>
+<td>#{{ flavor.colors.surface2.hex }} </td>
 </tr>
 </table>
 </details>
-
+{% endfor %}
 
 5. Done! There is no apply or save button.
 
