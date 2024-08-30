@@ -1,6 +1,7 @@
 ---
 whiskers:
-  version: 2.0.0
+  version: 2.4.0
+  filename: "README.md"
 ---
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
@@ -26,22 +27,14 @@ whiskers:
 > default, which is Mocha.
 
 1. Open the Dark Reader.
-2. Click on `Dev Tools` → `Preview new design` and close the window.
-3. Now click on `See all options` -> `Colors`.
+2. Click on **Dev Tools** > **Advance** > **Preview new design** and close the window.
+3. Now click on **See all options** > **Colors**.
 4. Open your desired flavor in the table below. Copy and paste values into respective fields.
     - You will have to change the "Selection" setting from `Automatic` to `Custom`.
 
 {% for id, flavor in flavors %}
 <details>
-{%- if id == "latte" %}
-<summary>🌻 Latte</summary>
-{%- elif id == "frappe" %}
-<summary>🪴 Frappé</summary>
-{%- elif id == "macchiato" %}
-<summary>🌺 Macchiato</summary>
-{%- else %}
-<summary>🌿 Mocha</summary>
-{%- endif %}
+<summary>{{flavor.emoji}} {{flavor.name}}</summary>
 <table>
 <tr>
 <th>Setting</th>
