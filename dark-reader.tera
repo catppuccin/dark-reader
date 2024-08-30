@@ -1,6 +1,7 @@
 ---
 whiskers:
-  version: 2.0.0
+  version: 2.4.0
+  filename: "README.md"
 ---
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
@@ -33,15 +34,7 @@ whiskers:
 
 {% for id, flavor in flavors %}
 <details>
-{%- if id == "latte" %}
-<summary>🌻 Latte</summary>
-{%- elif id == "frappe" %}
-<summary>🪴 Frappé</summary>
-{%- elif id == "macchiato" %}
-<summary>🌺 Macchiato</summary>
-{%- else %}
-<summary>🌿 Mocha</summary>
-{%- endif %}
+<summary>{{flavor.emoji}} {{flavor.name}}</summary>
 <table>
 <tr>
 <th>Setting</th>
