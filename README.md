@@ -12,7 +12,7 @@
 </p>
 
 
-![DarkReader Theme Preview (Wikipedia)](assets/screenshot.png)
+![DarkReader Theme Preview (Wikipedia)](assets/preview.webp)
 
 
 ## Usage
