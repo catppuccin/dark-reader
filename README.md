@@ -11,9 +11,28 @@
     <a href="https://github.com/catppuccin/dark-reader/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dark-reader?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+<p align="center">
+	<img src="assets/preview.webp"/>
+</p>
 
-![DarkReader Theme Preview (Wikipedia)](assets/screenshot.png)
+## Previews
 
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.webp"/>
+</details>
 
 ## Usage
 
