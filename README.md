@@ -41,7 +41,7 @@
 > default, which is Mocha.
 
 1. Open the Dark Reader.
-2. Click on **Dev Tools** > **Advance** > **Enable design prototype** and close the window.
+2. Click on **Advanced** > **Dev Tools** > **Advanced** > **Enable design prototype** and close the window.
 3. Now click on **See all options** > **Colors**.
 4. Open your desired flavor in the table below. Copy and paste values into respective fields.
     - You will have to change the "Selection" setting from `Automatic` to `Custom`.
