@@ -36,15 +36,14 @@
 
 ## Usage
 
-> [!IMPORTANT]
-> If you only want to use _Mocha_, Dark Reader includes **Catppuccin** by
-> default, which is Mocha.
-
-1. Open the Dark Reader.
-2. Click on **Dev Tools** > **Advance** > **Preview new design** and close the window.
-3. Now click on **See all options** > **Colors**.
-4. Open your desired flavor in the table below. Copy and paste values into respective fields.
-    - You will have to change the "Selection" setting from `Automatic` to `Custom`.
+1. Open **Dark Reader**.
+2. Click on the **More** tab, then go to **All Settings**.
+3. In the settings page, go to **Advanced** > **Dev Tools**.
+4. Under **Advanced**, click the **Enable design prototype** button.
+5. Go back to Dark Reader, click **See all options**, then open **Colors**.
+    - For the *Mocha* theme, choose **Catppuccin** under the **Color Scheme** dropdown.
+6. Choose your desired flavor in the table below. Copy its values into the corresponding color fields.
+    - Change **Selection** from `Automatic` to `Custom` to enter selection values.
 
 
 <details>
